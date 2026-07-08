@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Contact Us - Professional Communication Portal",
+  title: "HYM GP International Co., Ltd.",
   description:
     "Connect with us via WhatsApp, LINE, or WeChat. Fast and reliable multi-platform communication.",
   icons: {
